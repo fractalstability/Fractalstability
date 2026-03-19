@@ -2,7 +2,7 @@
 
 **Research Professor · R&D at [AggieAir](https://uwrl.usu.edu/aggieair/) ([Github](https://github.com/aggieair/)) · Utah State University**
 
-I build unmanned aerial systems and robotics that do real science. From fractional-order flight controllers to 55-lb VTOL fixed-wing platforms mapping water use across the American West. My work spans the full UAS and robotics stack: PCB layout → embedded firmware → autopilot software and simulation → mission planning → payload and data pipelines (and more).
+I build unmanned aerial systems and robotics that do real science. From research topics like fractional-order flight controllers to applied 55-lb VTOL fixed-wing platforms mapping water use across the American West. My work spans the full UAS and robotics stack: PCB layout → embedded firmware → autopilot software and simulation → mission planning → payload and data pipelines (and more).
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Calvin-Coopmans)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Q4hNAqIAAAAJ)
